@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+body{background-color: blue;}
+main{color: purple;background-color: skyblue;}
+h1{color: white;}
+a:link{color: purple; text-decoration: none; }
+a:visited{color: green;text-decoration: none;}
+a:active{color: red;text-decoration: none;}
+
+
+
+
+
+
+
+@media screen and (max-width:480px){
+    body{background-color: red;}
+}
