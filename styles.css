@@ -5,8 +5,7 @@ h1{color: white;}
 a:link{color: purple; text-decoration: none; }
 a:visited{color: green;text-decoration: none;}
 a:active{color: red;text-decoration: none;}
-
-
+img{float: right;}
 
 
 
@@ -14,4 +13,9 @@ a:active{color: red;text-decoration: none;}
 
 @media screen and (max-width:480px){
     body{background-color: red;}
+}
+@media screen and (max-width:320px){
+    body{
+        background-color: yellow; 
+    }
 }
