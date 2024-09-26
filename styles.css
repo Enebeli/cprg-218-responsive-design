@@ -13,6 +13,7 @@ img{float: right;}
 
 @media screen and (max-width:480px){
     body{background-color: red;}
+    img{float: none; width: 100%;}
 }
 @media screen and (max-width:320px){
     body{
